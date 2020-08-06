@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <path d="m173.21 224-83.138-48-3e-6 -96 83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 256-83.138-48-3e-6 -96 83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 384-83.138-48-3e-6 -96 83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m339.48 512-83.138-48v-96l83.138-48 83.138 48 1e-5 96z" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 448-83.138-48-3e-6 -96 83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m311.77 240-83.138-48v-96l83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m256.34 464-83.138-48v-96l83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m173.21 416-83.138-48-3e-6 -96 83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 288-83.138-48v-96l83.138-48 83.138 48 1e-5 96z" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 480-83.138-48v-96l83.138-48 83.138 48 1e-5 96z" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 512-83.138-48-3e-6 -96 83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+   <path d="m228.63 192-83.138-48v-96l83.138-48 83.138 48v96z" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff">
+   <path d="m117.78 416-55.426-32-2e-6 -64 55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m339.48 480-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 480-55.426-32-2e-6 -64 55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m284.06 448-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m228.63 416-55.426-32-1e-5 -64 55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 448-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m228.63 160-55.426-32-1e-5 -64 55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m284.06 192-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m339.48 224-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 256-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m173.21 384-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 352-55.426-32-2e-6 -64 55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m173.21 192-55.426-32v-64l55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 224-55.426-32-2e-6 -64 55.426-32 55.426 32v64z" style="paint-order:markers stroke fill"/>
+  </g>
+ </g>
+ <g display="none">
+  <g fill="#fff">
+   <path d="m173.21 224-83.138-48-2e-6 -96 83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 256-83.138-48-3e-6 -96 83.138-48 83.138 48 1e-5 96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 384-83.138-48-3e-6 -96 83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m339.48 512-83.138-48v-96l83.138-48 83.138 48 1e-5 96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 448-83.138-48-2e-6 -96 83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m311.77 240-83.138-48v-96l83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m256.34 464-83.138-48v-96l83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m173.21 416-83.138-48-2e-6 -96 83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 288-83.138-48-1e-5 -96 83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 480-83.138-48v-96l83.138-48 83.138 48 1e-5 96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 512-83.138-48-2e-6 -96 83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m228.63 192-83.138-48-1e-5 -96 83.138-48 83.138 48v96z" display="inline" style="paint-order:markers stroke fill"/>
+  </g>
+  <g>
+   <path d="m117.78 416-55.426-32-2e-6 -64 55.426-32 55.426 32 1e-5 64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m339.48 480-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 480-55.426-32-2e-6 -64 55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m284.06 448-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m228.63 416-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 448-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m228.63 160-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m284.06 192-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m339.48 224-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m394.91 256-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m173.21 384-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 352-55.426-32-1e-6 -64 55.426-32 55.426 32 1e-5 64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m173.21 192-55.426-32v-64l55.426-32 55.426 32v64z" display="inline" style="paint-order:markers stroke fill"/>
+   <path d="m117.78 224-55.426-32-1e-6 -64 55.426-32 55.426 32 1e-5 64z" display="inline" style="paint-order:markers stroke fill"/>
+  </g>
+ </g>
+</svg>
